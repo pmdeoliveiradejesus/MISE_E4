@@ -1,0 +1,41 @@
+B 3 C o m p i l a t i o n
+B 93 Equation Listing    SOLVE modelCe Using MIP From line 83
+D 96 Bcalc
+D 101 balance1
+D 112 r1
+D 123 r2
+D 134 r3
+D 145 r4
+D 156 r5
+D 167 r6
+B 179 Column Listing      SOLVE modelCe Using MIP From line 83
+E 182 Benefit
+E 189 SOC
+E 211 Pd
+E 233 Pc
+E 255 Pb
+E 280 Ps
+E 305 Pbmax
+E 336 w1
+E 355 w3
+B 375 Range Statistics    SOLVE modelCe Using MIP From line 83
+B 386 Model Statistics    SOLVE modelCe Using MIP From line 83
+B 399 Solution Report     SOLVE modelCe Using MIP From line 83
+F 444 Bcalc
+F 446 balance1
+F 475 r1
+F 504 r2
+F 533 r3
+F 562 r4
+F 591 r5
+F 620 r6
+G 651 Benefit
+G 655 SOC
+G 684 Pd
+G 713 Pc
+G 742 Pb
+G 771 Ps
+G 802 Pbmax
+G 806 w1
+G 835 w3
+B 870 E x e c u t i o n
